@@ -1,3 +1,5 @@
+orig: https://github.com/PatWie/CppNumericalSolvers
+
 CppOptimizationLibrary (A header-only C++17 optimization library)
 =================================================================
 
